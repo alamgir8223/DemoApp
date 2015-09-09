@@ -1,0 +1,6 @@
+C:\Users\Alamgir  Khan\Desktop\InterviewTest\DemoApp\DemoApp\bin\DemoApp.dll.config
+C:\Users\Alamgir  Khan\Desktop\InterviewTest\DemoApp\DemoApp\bin\DemoApp.dll
+C:\Users\Alamgir  Khan\Desktop\InterviewTest\DemoApp\DemoApp\bin\DemoApp.pdb
+C:\Users\Alamgir  Khan\Desktop\InterviewTest\DemoApp\DemoApp\obj\Debug\DemoApp.csprojResolveAssemblyReference.cache
+C:\Users\Alamgir  Khan\Desktop\InterviewTest\DemoApp\DemoApp\obj\Debug\DemoApp.dll
+C:\Users\Alamgir  Khan\Desktop\InterviewTest\DemoApp\DemoApp\obj\Debug\DemoApp.pdb
